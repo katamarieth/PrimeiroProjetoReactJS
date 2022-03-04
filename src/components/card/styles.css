@@ -1,0 +1,20 @@
+.card_home_item{
+  
+    width: 200px;
+    height: 350px;
+    padding: 20px 10px;
+    margin: 20px;
+    border:1px solid #cacaca;
+
+}
+
+.image_card{
+    width: 140px;
+    height: 120px;
+    margin: 5px 0 0 25px;
+
+}
+
+.item_card_title{
+    font-size:1.4rem;
+}

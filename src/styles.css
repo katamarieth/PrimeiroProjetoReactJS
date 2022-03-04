@@ -1,0 +1,9 @@
+/*configuração global da estilização*/
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
